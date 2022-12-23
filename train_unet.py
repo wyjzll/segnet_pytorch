@@ -3,17 +3,6 @@
 """
 Created on Fri Dec 23 11:29:38 2022
 
-@author: m199315
-"""
-
-# -*- coding: utf-8 -*-
-"""
-# @file name  : unet_portrait_matting.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2019-11-25
-# @brief      : train unet
-"""
-
 import os
 import time
 import torch.nn as nn
